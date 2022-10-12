@@ -1,0 +1,141 @@
+﻿  Game.cpp
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.h(34,2): warning C4091: “typedef ”: 没有声明变量时忽略“PLAYROLE”的左侧
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.h(45,2): warning C4091: “typedef ”: 没有声明变量时忽略“GridShape”的左侧
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.h(34,2): warning C4091: “typedef ”: 没有声明变量时忽略“ButtonState”的左侧
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(33,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(84,96): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(84,55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(258,42): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(278,42): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(279,43): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(303,43): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(340,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(343,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(344,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(347,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(348,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(351,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(352,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(356,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(357,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(360,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(361,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(364,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(365,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(368,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(369,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(318,6): warning C4101: “initialX”: 未引用的局部变量
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(541,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(546,3): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(550,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(570,9): warning C4101: “lbound”: 未引用的局部变量
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(571,9): warning C4101: “ubound”: 未引用的局部变量
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(825,40): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(655,53): warning C4244: “return”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(792): message : 查看对正在编译的函数 模板 实例化“T randT<int>(T,T)”的引用
+          with
+          [
+              T=int
+          ]
+  Tetris.cpp
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.h(34,2): warning C4091: “typedef ”: 没有声明变量时忽略“PLAYROLE”的左侧
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.h(45,2): warning C4091: “typedef ”: 没有声明变量时忽略“GridShape”的左侧
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(9,20): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(30,13): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(92,17): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(103,16): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(123,17): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(134,23): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(208,29): warning C4305: “-=”: 从“double”到“float”截断
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(232,71): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(232,41): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(234,40): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(234,26): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(242,73): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(242,42): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(243,40): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(243,26): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(259,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(259,26): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(260,41): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(260,27): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(269,66): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(269,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(270,57): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(270,34): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(278,83): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(278,50): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(279,58): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(279,35): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(532,25): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(534,21): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(615,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(615,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(616,57): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(616,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(620,45): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(620,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Tetris.cpp(865,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\俄罗斯方块\Game.cpp(252): warning C4715: “Game::gameRun”: 不是所有的控件路径都返回值
+  俄罗斯方块.vcxproj -> C:\Users\Xiao\Desktop\俄罗斯方块PD+GA\俄罗斯方块PD+GA\俄罗斯方块\Debug\俄罗斯方块.exe
